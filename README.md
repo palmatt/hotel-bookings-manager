@@ -3,7 +3,9 @@ In order to run the app JAVA_HOME and PATH variable needs to be defined correctl
 
 go to main repo dir and run
 
-`mvnw clean package`
+```
+mvnw clean package
+```
 
 then run 
 
@@ -19,12 +21,17 @@ Availability and Search, usage is exactly the same as asked in pdf file
 
 examples
 
+```
 Availability(H1, 20240901, SGL)
+```
 
+```
 Availability(H1, 20240901-20240903, DBL)
+```
 
+```
 Search(H1, 365, SGL)
-
+```
 
 to finish the program execution input a blank string when asked for command
 
