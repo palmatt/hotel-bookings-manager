@@ -42,3 +42,4 @@ no spring or database has been used since it was asked to keep it as simple as p
 
 application will work for relatively small json files (for larger ones, run parameters should be used to not have out of memory exceptions)
 
+bookings.json and hotels.json from pdf are added in main repo dir
